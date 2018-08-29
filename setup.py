@@ -13,7 +13,6 @@ install_requires = [
     'crc16',
     'requests',
     'SSEClient',
-    'numpy',
     'toml',
     'mnemonic',
     'six',
